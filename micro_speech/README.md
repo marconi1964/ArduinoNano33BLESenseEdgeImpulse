@@ -1,6 +1,6 @@
 ## Micro Speech experient based on Arduino Nano 33 BLE Sense with Edge Impulse Studio
 
-I know the company[Edge Impulse](https://www.edgeimpulse.com) from this book [TinyML: Machine Learning with TensorFlow Lite - Pete Warden & Daniel Situnayake](https://www.adafruit.com/product/4526), which Daniel is the co-founder. This is my experient of micro-speech using [Edge Impulse Studio](https://studio.edgeimpulse.com/) based on Arduino Nano 33 BLE Sense.
+I know the company [Edge Impulse](https://www.edgeimpulse.com) from this book [TinyML: Machine Learning with TensorFlow Lite - Pete Warden & Daniel Situnayake](https://www.adafruit.com/product/4526), which Daniel is the co-founder. This is my experient of micro-speech using [Edge Impulse Studio](https://studio.edgeimpulse.com/) based on Arduino Nano 33 BLE Sense.
 
 This experient recognizes Mandarin audio (with duration of less than one second) in 4 labels:
 1. Forward - "前進"
