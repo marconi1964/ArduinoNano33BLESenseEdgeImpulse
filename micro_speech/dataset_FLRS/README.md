@@ -13,9 +13,9 @@ This data set contains 4 labels (forward - 前進, left - 左, right - 右, stop
 
 ## File tructure  
 dataset_FLRS   
-    |- Train_data  
-        |- forward.xxxx.wav  
-        |- forward.yyyy.wav  
+>|- Train_data  
+>>|- forward.xxxx.wav  
+>>|- forward.yyyy.wav  
         ....  
         |- left.zzzz.wav  
         |- left.mmmm.wav  
