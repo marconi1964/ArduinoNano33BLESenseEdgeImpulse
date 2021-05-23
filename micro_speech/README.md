@@ -16,7 +16,7 @@ I already use the Edge Impulse Studion for training, and it generate the TinyML 
 
 <img src="https://github.com/marconi1964/marconi1964.github.io/blob/master/images/ArduinoAddZIP.png?raw=true" width=400>
 
-3. Go to menu "File - Examples", and browse down to the bottom to find ""ei-marconijiang-project-1-arduino-1.0.20", and select the example of "nano_ble33_sense_microphone"
+3. Go to menu "File - Examples", and browse down to the bottom to find "MarconiJiang-project-1 Inferencing - Edge Impulse", and select the example of "nano_ble33_sense_microphone"
 
 <img src="https://github.com/marconi1964/marconi1964.github.io/blob/master/images/ArduinoExamples.png?raw=true" width=400>
 

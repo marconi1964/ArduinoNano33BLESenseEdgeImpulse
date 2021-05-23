@@ -1,4 +1,4 @@
-This 'dataset_FLRS' data set contains Mandarin audio file (.wav) recorded by myself using Arduino Nano 33 BLE Sense on [Edge Impulse Studio](https://studio.edgeimpulse.com/).
+This 'dataset_FLRS' (Forward/Left/Right/Stop) data set contains Mandarin audio file (.wav) recorded by myself using Arduino Nano 33 BLE Sense on [Edge Impulse Studio](https://studio.edgeimpulse.com/).
 
 ## Audio data
 This audio data set is recorded with Edge Impulse Studio on Arduino Nano 33 BLE Sense with sampling rate of 16,000 and duration of one second, 16 bits per sample, mono channel.
